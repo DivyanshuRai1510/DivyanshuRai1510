@@ -1,4 +1,5 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="assets/banner_github.png" alt="GitHub Banner" width="100%" />
+
 # 💫 About Me:
 👋 Hi, I’m DivyanshuRai<br><br>👀 I’m interested in:<br>Software Development, Full-Stack Web Development, Artificial Intelligence, Machine Learning, Data Science, and Problem Solving.<br><br>🌱 I’m currently learning:<br>React.js, Node.js, Express.js, MongoDB, Flask, and Data Science tools (like Scikit-learn) to build real-world applications and ML models.<br><br>💞️ I’m looking to collaborate on:<br>Full-Stack Web Apps, AI/ML projects, Open-Source contributions, and Data Science research. If you’re working on any cool project, feel free to reach out!<br><br>📫 How to reach me:<br>Email: [divyanshu131212@gmail.com](mailto:divyanshu131212@gmail.com)<br>LinkedIn: [linkedin.com/in/divyanshurai1510](https://www.linkedin.com/in/divyanshurai1510)<br>GitHub: [github.com/DivyanshuRai](https://github.com/DivyanshuRai)<br>
 
