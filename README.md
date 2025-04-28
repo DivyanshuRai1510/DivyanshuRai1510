@@ -1,6 +1,6 @@
 - 👋 Hi, I’m DivyanshuRai
   
-- 👀 I’m interested in:
+- 👀 I’m interested in: 
   Software Development, Full-Stack Web Development, Artificial Intelligence, Machine Learning, Data Science, and Problem Solving.
   
 - 🌱 I’m currently learning:
